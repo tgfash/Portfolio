@@ -484,12 +484,16 @@ img{
     width: 40%;
 }
 
-.skills__php{
-    width: 0%;
+.skills__database{
+    width: 40%;
 }
 
-.skills__node{
-    width: 0%;
+.skills__english{
+    width: 80%;
+}
+
+.skills__git{
+    width: 50%;
 }
 
 .skills__photoshop{
